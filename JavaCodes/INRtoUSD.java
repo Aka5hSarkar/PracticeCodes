@@ -1,3 +1,4 @@
+//input currency in rupees and output in USD.
 package INRtoUSD;
 import java.util.Scanner;
 public class INRtoUSD {
